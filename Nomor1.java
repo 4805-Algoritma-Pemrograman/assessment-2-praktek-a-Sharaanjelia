@@ -1,3 +1,4 @@
+
 import java.util.Scanner;
 
 public class Nomor1 {
@@ -29,8 +30,3 @@ public class Nomor1 {
         
         scanner.close();
     }
-
-        System.out.println(Nomor1.class.getDeclaredMethods().length); 
-    }
-    
-}
